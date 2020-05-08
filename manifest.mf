@@ -1,0 +1,9 @@
+Bundle-Description: OSGI UPnP Homework. 
+Bundle-Name: Music Controle 1.0.0
+Bundle-SymbolicName: tara.ismp; singleton:=true
+Bundle-Version: 1.0.0
+Bundle-Activator: tara.ismp.Activator
+Bundle-Author: Edward Lin <edward730109@gmail.com>
+Bundle-Vendor: Tara comp.
+Bundle-ClassPath: .
+Import-Package: org.osgi.framework, org.osgi.service.upnp
